@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">Hi 👋, I'm Ankush Lohani</h1>
+<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Ankuush  </h1>
 <h3 align="center">CODER || DEVELOPER || ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakl&label=Profile%20views&color=0e75b6&style=flat" alt="iamakl" /> </p>
