@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Ankuush  </h1>
-<h3 align="center">CODER || DEVELOPER || ENGINEER</h3>
+<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's Ankush  </h1>
+<h3 align="center">NIT ROURKELA || DEVELOPER || ENGINEER</h3>
+<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/c0/6c/89/c06c89bec6609263981ee5ca131df76f.png" padding="5px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakl&label=Profile%20views&color=0e75b6&style=flat" alt="iamakl" /> </p>
 
